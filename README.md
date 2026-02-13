@@ -36,4 +36,4 @@ quiz-application/
 
 ## 👩‍💻 Developed By
 
-Vyshnavi
+ Vijayagiri Vyshnavi
